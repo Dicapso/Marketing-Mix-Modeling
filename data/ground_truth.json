@@ -1,0 +1,48 @@
+{
+  "tv": {
+    "decay": 0.6,
+    "half_saturation": 1.1,
+    "shape": 1.6,
+    "beta": 460,
+    "total_spend": 6684.299362245258,
+    "total_contribution": 30967.563432195042,
+    "roi": 4.632880987812765
+  },
+  "outdoor": {
+    "decay": 0.4,
+    "half_saturation": 0.9,
+    "shape": 1.0,
+    "beta": 60,
+    "total_spend": 2238.007216476578,
+    "total_contribution": 4375.907312471594,
+    "roi": 1.955269527397161
+  },
+  "meta": {
+    "decay": 0.25,
+    "half_saturation": 0.9,
+    "shape": 1.0,
+    "beta": 225,
+    "total_spend": 4254.246898447114,
+    "total_contribution": 17901.27334998412,
+    "roi": 4.207859528914141
+  },
+  "google_search": {
+    "decay": 0.05,
+    "half_saturation": 0.45,
+    "shape": 1.0,
+    "beta": 170,
+    "total_spend": 4937.452986076008,
+    "total_contribution": 18059.941172500123,
+    "roi": 3.6577444328949618
+  },
+  "youtube": {
+    "decay": 0.45,
+    "half_saturation": 2.2,
+    "shape": 1.0,
+    "beta": 265,
+    "total_spend": 1564.6649842357037,
+    "total_contribution": 12070.584709106057,
+    "roi": 7.714485101104381
+  },
+  "_media_share_of_revenue": 0.34982545235766926
+}
